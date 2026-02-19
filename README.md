@@ -1,4 +1,4 @@
-# Dynamin Product Dashboard
+# Dynamic Product Dashboard
 - This is a product dashboard with filters for products all products, in-stock and out of stock
 - Ensure to run npm install before running the project
 
